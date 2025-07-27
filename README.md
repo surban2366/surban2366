@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/surban2366/surban2366/main/profilovka.jpg" width="150" alt="Profilová fotka" style="border-radius:50%">
 
-<!--
-**surban2366/surban2366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dušan Urban
+**Freelance Software Developer**  
+Python · C# · SQL · Git · Web · Automations
 
-Here are some ideas to get you started:
+🔧 Zaměřuji se na vývoj nástrojů, webových aplikací a skriptů, které šetří čas a peníze.  
+🧠 Silný důraz na čistý, srozumitelný kód a efektivní řešení.  
+📈 Otevřený projektům i dlouhodobé spolupráci.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Portfolio
+- 🔗 [Python projekty](https://github.com/surban2366/Python-projekty)
+- 🔗 [Junior projekty](https://github.com/surban2366/python-junior-projekty)
+
+---
+
+📬 Kontakt: dusan@example.com *(nebo co chceš)*
