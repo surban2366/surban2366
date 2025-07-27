@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/surban2366/surban2366/main/profilovka.jpg" width="150" alt="Profilová fotka" style="border-radius:50%">
+<img src="Screenshot_2025-07-03-18-43-13.png" width="150" alt="Profilová fotka" style="border-radius:50%">
 
 # Dušan Urban
 **Freelance Software Developer**  
